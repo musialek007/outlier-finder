@@ -20,7 +20,7 @@ A simple web application built with **Vue.js** that identifies an "outlier" valu
   git clone https://github.com/musialek007/outlier-finder.git
 ```
 
-2. **Clone the repository:**
+2. **Install dependencies:**
 
 ```bash
     npm install
