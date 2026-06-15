@@ -1,6 +1,6 @@
 # Number Outlier Finder
 
-A simple web application built with **Vue.js** that identifies an "outlier" value in a given array of integers based on parity (even/odd).
+A simple web application built with **Vue.js** that identifies an "outlier" value in a given array of integers based on parity (even/odd). **This project was created as a recruitment task.**
 
 ## 🚀 Features
 
